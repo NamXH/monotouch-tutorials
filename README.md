@@ -1,3 +1,5 @@
+**_Obsolete code but it looks like a good examle of an Xamarin.iOS project with MVC pattern!!!_**
+
 monotouch-tutorials
 ============
 
